@@ -8,4 +8,4 @@ This repository is designed so that students can easily find small project to le
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Read our contribution guidelines [here]()!
+Read our contribution guidelines [here](https://github.com/InfoJrUFBA/web-development-and-mobile-challenges/blob/main/CONTRIBUTING.md)!

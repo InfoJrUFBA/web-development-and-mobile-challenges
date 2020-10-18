@@ -2,7 +2,7 @@
 
 # #0 - Hello World
 
-**Name:** Hello World
+**Name**: Hello World
 
 **Description**: The first program in any programming language is usually "Hello World!" In this first problem all you have to do is print this message on the screen. All members must do a Hello World in any of the languages to continue to the next phase.
 

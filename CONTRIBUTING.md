@@ -26,7 +26,7 @@ You can simply contribute by using the Github website UI (User Interface).
 
 - Before you push your changes to GitHub, make sure that your code compiles and runs without any errors or warnings.
 - Use meaningful variable, method and function names.
-- Don't forget to comment your code.
+- Don't forget to comment on your code.
 - No profanity.
 
 ## Writing challenges
@@ -44,11 +44,11 @@ You can simply contribute by using the Github website UI (User Interface).
 
 ### PR Guidelines
 
-Use *{issue_id}-small-description* to name your PR.  
+Use ***[CHALLENGE] {issue_id}-small-description*** or ***[SOLUTION] {issue_id}-small-description*** to name your PR.  
 
 **Example**:
 
-- For branch #10 use **0-hello-world** as the branch name
+- For challenge #10 use ***[CHALLENGE] 10-hello-world*** as the pull request
 
 P.S.: Avoid more than 3 words as a brief description in the issue name.
 
@@ -88,7 +88,7 @@ Você pode simplesmente contribuir usando a UI (Interface do Usuário) do Github
 
 - Dê um nome para o seu desafio!
 - Faça de forma fácil de entender.
-- Sem profanidade.
+- Sem palavrões.
 
 ## Formas de Contribuir
 
@@ -97,12 +97,12 @@ Você pode simplesmente contribuir usando a UI (Interface do Usuário) do Github
 - Adicionando soluções diferentes para o problema.
 - Encontrando e corrigindo bugs.
 
-### Diretrizes de PR
+### Diretrizes de PR para adição de desafios
 
-Use *{problema_id}-pequena-descrição* para nomear o seu PR.
+Use ***[DESAFIO] {problema_id}-pequena-descrição*** ou ***[SOLUÇÃO] {problema_id}-pequena-descrição*** para nomear o seu PR.
 
 **Exemplo**:  
 
-- Para branch #10 use **0-hello-world** como nome da branch.
+- Para o desafio #10 use ***[DESAFIO] 10-hello-world*** como nome da pull request.
 
 P.S.: Evite mais do que 3 palavras como descrição do nome do problema.

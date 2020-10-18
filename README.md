@@ -2,12 +2,12 @@
 
 # WEB DEVELOPMENT AND MOBILE CHALLENGES
 
-This repository is designed so that students can easily find small project to learn web and mobile development.
-
+This repository is designed so that students can easily find small projects to learn web and mobile development.
 
 ## Choose Your Challenge
 
 - [0 - Hello World (it won't count)](./challenges/0-hello-world/readme.md)
+- [1 - Average Test Score](./challenges/1-average-test-score/readme.md)
 
 ## Contributing
 
@@ -18,11 +18,12 @@ Read our contribution guidelines [here](https://github.com/InfoJrUFBA/web-develo
 
 # DESAFIOS DE DESENVOLVIMENTO WEB E MOBILE.
 
-Este repositório é destinado para que estudantes possam fácilmente achar pequenos projetos para aprender sobre desenvolvimento web e mobile.
+Este repositório é destinado para que estudantes possam facilmente achar pequenos projetos para aprender sobre desenvolvimento web e mobile.
 
 ## Escolha o seu desafio
 
 - [0 - Hello World (não irá contar)](./challenges/0-hello-world/readme.md)
+- [1 - Média do aluno](./challenges/1-average-test-score/readme.md)
 
 ## Contribuindo
 

@@ -7,7 +7,7 @@
 
 **Entradas**: Não há.
 
-**Output**:
+**Saída**:
 
 ```
 Hello World

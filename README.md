@@ -7,6 +7,7 @@ This repository is designed so that students can easily find small projects to l
 ## Choose Your Challenge
 
 - [0 - Hello World (it won't count)](./challenges/0-hello-world/readme.md)
+- [1 - Average Test Score](./challenges/1-average-test-score/readme.md)
 
 ## Contributing
 
@@ -22,6 +23,7 @@ Este repositório é destinado para que estudantes possam facilmente achar peque
 ## Escolha o seu desafio
 
 - [0 - Hello World (não irá contar)](./challenges/0-hello-world/readme.md)
+- [1 - Média do aluno](./challenges/1-average-test-score/readme.md)
 
 ## Contribuindo
 

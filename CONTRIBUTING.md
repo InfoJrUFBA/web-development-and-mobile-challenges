@@ -47,7 +47,7 @@ P.S.: Avoid more than 3 words as a brief description in the issue name.
 [PORTUGUESE]
 ### Obrigado por considerar contribuir para o nosso repositório! 
 
-Nós estamos procurando por novos desafios e soluções para ele, então se assegure de nós mandar ideias impressionantes! Nós nos baseanos nos repositórios da [larissalages](https://github.com/larissalages/code_problems) e do [he4rtlabs](https://github.com/he4rtlabs/he4rtoberfest-2020).
+Nós estamos procurando por novos desafios e soluções para ele, então se assegure de nós mandar ideias impressionantes! Nós nos baseamos nos repositórios da [larissalages](https://github.com/larissalages/code_problems) e do [he4rtlabs](https://github.com/he4rtlabs/he4rtoberfest-2020).
 
 
 ## Como começar:

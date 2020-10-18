@@ -39,7 +39,7 @@ We’re looking for new challenges and solutions for them, so make sure to send 
 Use *{issue_id}-small-description* to name your PR.  
 
 **Example**:  
-*  For branch #10 use **10-define-client** as the branch name
+*  For branch #10 use **0-hello-world** as the branch name
  
 P.S.: Avoid more than 3 words as a brief description in the issue name.
 
@@ -47,7 +47,7 @@ P.S.: Avoid more than 3 words as a brief description in the issue name.
 [PORTUGUESE]
 ### Obrigado por considerar contribuir para o nosso repositório! 
 
-Nós estamos procurando por novos desafios e soluções para ele, então se assegure de nós mandar ideias impressionantes!
+Nós estamos procurando por novos desafios e soluções para ele, então se assegure de nós mandar ideias impressionantes! Nós nos baseanos nos repositórios da [larissalages](https://github.com/larissalages/code_problems) e do [he4rtlabs](https://github.com/he4rtlabs/he4rtoberfest-2020).
 
 
 ## Como começar:
@@ -64,6 +64,7 @@ Nós estamos procurando por novos desafios e soluções para ele, então se asse
 
 ## Escrevendo o código:
 
+* Crie uma pasta com seu nome de usuário para cada desafio.
 * Antes de colocar as suas mudanças no Github, tenha certeza que seu código compila e corre sem nenhum erro ou aviso.
 * Utilize nomes significativos para variaveis, metódos e funções.
 * Não se esqueça de comentar o seu código.
@@ -86,6 +87,6 @@ Nós estamos procurando por novos desafios e soluções para ele, então se asse
 Use *{problema_id}-pequena-descrição* para nomear o seu PR. 
 
 **Exemplo**:  
-*  Para branch #10 use **10-definir-cliente** como nome da branch.
+*  Para branch #10 use **0-hello-world** como nome da branch.
 
 P.S.: Evite mais do que 3 letras como descrição rápida do nome do problema.

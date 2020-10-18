@@ -19,6 +19,7 @@ Este repositório é destinado para que estudantes possam fácilmente achar pequ
 ## O que nós utilizamos
 
 ## Escolha o seu desafio
+- [0 - Hello World (não irá contar)](./challenges/0-hello-world/readme.md)
 
 ## Contribuindo
 Pull requests são bem vindos. Para mudanças maiores, por favor, abra uma issue primeiro para discutir o que você gostaria de alterar.

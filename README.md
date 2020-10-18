@@ -8,6 +8,7 @@ This repository is designed so that students can easily find small projects to l
 
 - [0 - Hello World (it won't count)](./challenges/0-hello-world/readme.md)
 - [1 - Average Test Score](./challenges/1-average-test-score/readme.md)
+- [2 - Investment](./challenges/2-investment/readme.md)
 
 ## Contributing
 
@@ -51,6 +52,7 @@ Este repositório é destinado para que estudantes possam facilmente achar peque
 
 - [0 - Hello World (não irá contar)](./challenges/0-hello-world/readme.md)
 - [1 - Média do aluno](./challenges/1-average-test-score/readme.md)
+- [2 - Investmento](./challenges/2-investment/readme.md)
 
 ## Contribuindo
 

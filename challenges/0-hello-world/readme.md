@@ -1,6 +1,6 @@
 [ENGLISH]
 
-# #0 - Hello World
+# #0 Hello World
 
 **Name**: Hello World
 
@@ -16,7 +16,7 @@ Hello World
 
 [PORTUGUESE]
 
-# #0 - Hello World
+# #0 Hello World
 
 **Nome**: Hello World
 

@@ -26,7 +26,7 @@ You can simply contribute by using the Github website UI (User Interface).
 
 - Before you push your changes to GitHub, make sure that your code compiles and runs without any errors or warnings.
 - Use meaningful variable, method and function names.
-- Don't forget to comment your code.
+- Don't forget to comment on your code.
 - No profanity.
 
 ## Writing challenges
@@ -88,7 +88,7 @@ Você pode simplesmente contribuir usando a UI (Interface do Usuário) do Github
 
 - Dê um nome para o seu desafio!
 - Faça de forma fácil de entender.
-- Sem profanidade.
+- Sem palavrões.
 
 ## Formas de Contribuir
 

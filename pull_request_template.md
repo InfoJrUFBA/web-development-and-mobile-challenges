@@ -30,8 +30,8 @@ P.S.: Delete the other language.
 
 ### Descrição
 
-Por favor, descreva o seu pull request aqui.
+Por favor, descreva seu pull request aqui.
 
 Obrigado!:heart:
 
-PS.: Delete a outra idioma.
+PS.: Apague o outro idioma.

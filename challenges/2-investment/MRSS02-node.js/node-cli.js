@@ -1,4 +1,4 @@
-//Execute esse programa com o node.js usando o seguinte comando: node node-cli.js
+//Run this program with node.js using the following command: node node-cli.js
 
 const readline = require("readline")
 
@@ -20,11 +20,11 @@ let read0 = readline.createInterface({
   output: process.stdout
 })
 
-read0.question("Insira dois valores numéricos positivos; separados por espaço\n", function(answer) {
+read0.question("Insert two positive numerical values; separated by spacebar\n", function(answer) {
   [value0, value1] = answer.split(" ")
   value0 = parseFloat(value0, 10)
   value1 = parseFloat(value1, 10)
-  if (value0 < 0 || value1 < 0) console.log("Valor(es) inválidos!");
+  if (value0 < 0 || value1 < 0) console.log("Invalid value(s)!");
   else console.log(final(value0, value1));
   read0.close();
 });

@@ -15,10 +15,11 @@ These repositories were our inspiration!
 
 You can simply contribute by using the Github website UI (User Interface).
 
-1. Fork this repository. This will create your own copy of this repo.
-2. Make any changes you want, following our guidelines below.
-3. Then, make a pull request.
-4. Your pull request will be merged after review! It's that easy!
+1. :star: Star this repo!
+2. Fork this repository. This will create your own copy of this repo.
+3. Make any changes you want, following our guidelines below.
+4. Then, make a pull request.
+5. Your pull request will be merged after review! It's that easy!
 
 [Take a look at this incredible tutorial to learn more!](https://github.com/firstcontributions/first-contributions)
 
@@ -73,10 +74,11 @@ Estes repositórios foram nossa inspiração!
 
 Você pode simplesmente contribuir usando a UI (Interface do Usuário) do Github.
 
-1. Dê fork nesse repositório. Isso irá criar sua própria cópia deste repo.
-2. Faça quaisquer mudanças que você quiser, seguindo nossas diretrizes logo abaixo.
-3. Depois, faça um pull request.
-4. Seu pull request irá ser mergeado depois da revisão! Fácil assim!
+1. :star: Favorite este repositório!
+2. Dê fork neste repositório. Isso irá criar sua própria cópia deste repo.
+3. Faça quaisquer mudanças que você quiser, seguindo nossas diretrizes logo abaixo.
+4. Depois, faça um pull request.
+5. Seu pull request irá ser mergeado depois da revisão! Fácil assim!
 
 [Dê uma olhada neste incrível tutorial para aprender mais!](https://github.com/firstcontributions/first-contributions)
 

@@ -16,7 +16,7 @@
 7.0
 _____
 
-MEDIA = 6.3
+FINAL SCORE = 6.3
 ```
 
 [PORTUGUESE]

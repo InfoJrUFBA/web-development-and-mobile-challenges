@@ -16,22 +16,3 @@ Please describe your pull request.
 Thank you!:heart:
 
 P.S.: Delete the other language.
-
-[PORTUGUESE]
-
-### Seu checklist para esse pull request.
-
-🚨 Por favor, reveja as [diretrizes para contribuir](https://github.com/InfoJrUFBA/web-development-and-mobile-challenges/blob/main/CONTRIBUTING.md) para esse repositório.
-
-- [ ] Certifique-se que seus arquivos estão na pasta correta!
-- [ ] Certifique-se que você adicionou a extensão do arquivo (cpp, .python, .java, etc).
-- [ ] Se seu código é a solução para um problema de outro código, por favor descreva de qual.
-- [ ] Certifique-se que seu código está funcionando, teste para vários casos.
-
-### Descrição
-
-Por favor, descreva seu pull request aqui.
-
-Obrigado!:heart:
-
-PS.: Apague o outro idioma.

@@ -10,7 +10,7 @@ function final(a, b, c) {
   let d = a + b + c
   d = d / 3
   d = d.toFixed(1)
-  return `AVERAGE GRADE: ${d}`
+  return `FINAL SCORE: ${d}`
 }
 
 let read0 = readline.createInterface({

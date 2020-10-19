@@ -1,9 +1,9 @@
 //Run this program with node.js using the following command: node node-cli.js
 
-const readline = require("readline");
+const readline = require("readline")
 
-let value0;
-let value1;
+let value0
+let value1
 
 
 function final(a, b) {

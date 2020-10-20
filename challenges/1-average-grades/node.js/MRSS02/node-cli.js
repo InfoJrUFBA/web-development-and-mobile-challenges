@@ -1,4 +1,4 @@
-//Execute esse programa com o node.js usando o seguinte comando: node node-cli.js
+//Run this program using the following command: node node-cli.js
 
 const readline = require("readline")
 
@@ -18,7 +18,7 @@ let read0 = readline.createInterface({
   output: process.stdout
 })
 
-read0.question("Insira 3 valores numéricos entre 0 a 10, com até uma casa decimal; separados por enter\n", function(answer) {
+read0.question("Insert 3 numerical values from 0 to 10, using up to 1 decimal places; separated by spacebar\n", function(answer) {
     [value0, value1, value2] = answer.split(" ")
     value0 = parseFloat(value0, 10)
     value1 = parseFloat(value1, 10)

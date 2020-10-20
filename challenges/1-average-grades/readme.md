@@ -2,6 +2,8 @@
 
 # Average Test Score
 
+Created by: [Laurinne Oliveira](https://github.com/ALaurinne)
+
 **Nome:** Average Test Score
 
 **Description:** Read 3 values, in this case, variables A, B and C, which are the three grades of a student. Next, calculate the student's average score, knowing that grade A has weight 2, grade B has weight 3 and grade C has weight 5. Consider that each grade can range from 0 to 10.0, always to one decimal place.
@@ -22,6 +24,8 @@ FINAL SCORE = 6.3
 [PORTUGUESE]
 
 # Desafio #1
+
+Criado por: [Laurinne Oliveira](https://github.com/ALaurinne)
 
 **Nome:** Média do Aluno
 

@@ -36,7 +36,7 @@ $1044.80
 # #3 Taxa de juro
 Created by: [Mateus Romano](https://github.com/MRSS02)
 
-**Name:** Interest Rate
+**Nome:** Taxa de Juro
 
 **Descrição:** Beatrice quer investir seu dinheiro em uma conta que possui um tipo especial de juros. Tais juros são sempre compostos, mas a taxa de juros é variável, e funciona da seguinte maneira: para meses divisíveis por 4, a taxa de juros é 10%; para os demais meses, a taxa de juros é 5% nos meses pares, e 2.5% nos meses ímpares. Sabendo que o primeiro mês em que os juros se aplicarão será sempre janeiro, Beatrice precisa de sua ajuda para construir um programa que a ajude a saber quanto dinheiro ela terá no fim das contas caso invista x quantia e mantenha tal quantia por y meses nessa conta bancária.
 

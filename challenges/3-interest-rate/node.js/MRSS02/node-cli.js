@@ -7,12 +7,24 @@ let value1;
 
 
 function final(a, b) {
-  let d = a * 0.5
-  let e = d * 0.05
-  for (x = 0; x < b; x++) {
-    d += e
+  let c = b / 4
+  c = Math.floor(c)
+  let finalvalue = a
+  for (x = 0; x < c; x++) {
+    finalvalue *= 1.1
   }
-  return `R$ ${d}`
+  let d = b - c
+  let e = d / 2
+  e = Math.floor(e)
+  for (x = 0; x < e; x++) {
+    finalvalue *= 1.05
+  }
+  e = d - e
+  for (x = 0; x < e; x++) {
+    finalvalue *= 1.025
+  }
+  finalvalue = finalvalue.toFixed(2)
+  return `$ ${finalvalue}`
 }
 
 let read0 = readline.createInterface({

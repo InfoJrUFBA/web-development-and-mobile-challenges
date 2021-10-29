@@ -6,11 +6,12 @@
         </title>
         <!-- Isso aqui importa o CSS-->
         <link rel="stylesheet" href="style.css">
+        <script type="text/javascript" src="script.js"></script>
 
     </head>
-    <body>
+    <body onload="chocolate()">
       <nav>
-         <p class="barra">aaaaa</p>
+         <p id="barra"></p>
          <p></p>
       </nav>
       <header>
@@ -39,47 +40,35 @@
          <li class="item2">Tem que ter assistido a
          <span class="item9">capacitação</span>
          <p class="itemA">capacitação
-        </div>
-        </div>
-        <div class="goiaba">
          </p>
          </li>
          </ul>
+        </div>
+        </div>
+        <div class="goiaba">
+         <div>
          <p class="numsei2">Fila</p>
-         <p class="itemB">ANTONIO FIGUEIREDO<p>
-         <p class="itemC">Quantidade: 3 pães</p>
-         <p class="itemB">MARIA CAROLINA</p>
-         <p class="itemC">Quantidade: 1 pão</p>
-         <p class="itemB">JÃO VITOR</p>
-         <p class="itemC">Quantidade: 2 pães</p>
-         <p class="itemB">ANDRESSA SILVA</p>
-         <p class="itemC">Quantidade: 27 pães</p>
-         <p class="itemD">MATEUS ROMANO</p>
-         <p class="itemE">Quantidade: 4 pães</p>
-         <p class="item10">aaaaa</p>
+         <p id="fila1"></p>
+         <p class="item10">.</p>
+        </div>
         </div>
         </div>
         <div class="j2">
         </div>
         <div class="j3">
         <p class="numsei">Fila</p>
-        <p class="item1">ANTONIO FIGUEIREDO</p>
-        <p class="item3">Quantidade: 3 pães</p>
-        <p class="item1">MARIA CAROLINA</p>
-        <p class="item3">Quantidade: 1 pão</p>
-        <p class="item1">JÃO VITOR</p>
-        <p class="item3">Quantidade: 2 pães</p>
-        <p class="item1">ANDRESSA SILVA</p>
-        <p class="item3">Quantidade: 27 pães</p>
-        <p class="item8">MATEUS ROMANO</p>
-        <p class="item7">Quantidade: 4 pães</p>
+        <p id="fila"></p>
+        <input id="item8" placeholder="DIGITE SEU NOME..." type="text"></input>
+        <input id="item7" placeholder="Quantidade" type="text"></input>
+        <button onclick="goiaba()" class="botão1">Quero pão</button>
+        </p>
         </li>
-        <p class="itemF">aaaaa</p>
+        <p class="itemF">.</p>
         </div>
       </span>
       </main>
       <footer>
-        <p class="blankspace">aaaaa</p>
+        <p class="blankspace">.</p>
       </footer>
     </body>
 </html>

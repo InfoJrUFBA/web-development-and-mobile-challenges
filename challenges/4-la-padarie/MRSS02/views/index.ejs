@@ -1,0 +1,89 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>
+          LA PADARIE RON PÃO PÃO PÃO
+        </title>
+        <!-- Isso aqui importa o CSS-->
+        <link rel="stylesheet" href="./style.css">
+        <script type="text/javascript" src="./script.js"></script>
+    </head>
+    <body onload="chocolate()">
+      <nav>
+         <p id="barra"></p>
+         <p></p>
+      </nav>
+      <header>
+        <div class="griddopao">
+         <span class="pao1">
+          <img class="imagem" src="./img/Logo.png" alt="ícone">
+         </span>
+         <span class="sempao">
+         </span>
+         <span class="pao2">
+           <p class="sidelogo">Quem quer pão?</p>
+           <p class="sidelogo2">Quem quer pão?</p>
+         </span>
+      </header>
+      <main>
+      <span class="janelamaster">
+        <div class="j1">
+        <div>
+        <div class="nochocolate">
+         <span class="seilaoque">Regras</span>
+         <ul>
+         <li class="item0">Ter entre 3 e 180 anos
+         </li>
+         <li class="item2">Tem que gostar de pão
+         </li>
+         <li class="item2">Tem que ter assistido a
+         <span class="item9">capacitação</span>
+         <p class="itemA">capacitação
+         </p>
+         </li>
+         </ul>
+        </div>
+        </div>
+        <div class="goiaba">
+         <div>
+         <p class="numsei2">Fila</p>
+         <p id="fila1"></p>
+         <p class="item10">.</p>
+        </div>
+        </div>
+        </div>
+        <div class="j2">
+        </div>
+        <div class="j3">
+        <p class="numsei">Fila</p>
+        <p id="fila"></p>
+        <span class="numsei3">Fazer pedido como:<br></span>
+        <span id="nombre"><%= client %></span>
+        <span><br></span>
+        <form action='/fila' method="post">
+        <input id="item7" name="quantity" placeholder="Digite a quantidade..." type="text"></input>
+        <button type="submit" class="botão1">Quero pão</button>
+        </form>
+        <form action="/logout?_method=DELETE" method="POST">
+        <button type="submit" class="botão6">Sair</button>
+        </form>
+        </p>
+        </li>
+        <p class="itemF">.</p>
+        </div>
+      </span>
+      <script>
+      function chocolate() {
+          let queue = <%- JSON.stringify(fila) %>;
+          for (let x = 0; x < queue.length; x++) {
+            document.getElementById("fila").innerHTML += `${queue[x].name.toUpperCase()}\n`+ "<br>" + `Quantidade: ${queue[x].amount} pães` + "<br>" + "<br>"
+            document.getElementById("fila1").innerHTML += `${queue[x].name.toUpperCase()}\n`+ "<br>" + `Quantidade: ${queue[x].amount} pães` + "<br>" + "<br>"
+          }
+      };
+      </script>
+      </main>
+      <footer>
+        <p class="blankspace">.</p>
+      </footer>
+    </body>
+</html>

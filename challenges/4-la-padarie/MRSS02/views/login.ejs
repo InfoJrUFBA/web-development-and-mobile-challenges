@@ -1,0 +1,38 @@
+<html>
+ <head>
+
+     <meta charset="utf-8">
+     <title>
+       LA PADARIE RON PÃO PÃO PÃO
+     </title>
+     <link rel="stylesheet" href="./style.css">
+     <script type="text/javascript" src="./script.js"></script>
+  </head>
+  <body>
+    <nav>
+       <p id="barra"></p>
+       <p></p>
+    </nav>
+    <header>
+       <span class="pao1">
+         <img class="imagem" src="./img/Logo.png" alt="ícone">
+       </span>
+       <h1 class="title">Por favor, diga-nos quem você é, cliente.</h1>
+    </header>
+    <main>
+      <form action="/login" method="post">
+        <div class="j4">
+           <input id="item8" placeholder="Nome de usuário" type="text" name="login" required>
+           <input id="item6" placeholder="Senha" type="password" name="password" required>
+           <button type="submit" class="botão4">Entrar</button>
+           <a href="/register" class="botão5">Cadastrar</a>
+        </div>
+      </form>
+      <% if (messages.error) { %>
+         <script>
+         alert("<%= messages.error %>")
+         </script>
+        <% } %>
+    </main>
+  </body>
+</html>

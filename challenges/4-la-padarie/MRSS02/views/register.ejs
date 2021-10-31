@@ -1,0 +1,42 @@
+  <html>
+   <head>
+       <meta charset="utf-8">
+       <title>
+         LA PADARIE RON PÃO PÃO PÃO
+       </title>
+       <link rel="stylesheet" href="./style.css">
+       <script type="text/javascript" src="./script.js"></script>
+    </head>
+    <body>
+      <nav>
+         <p id="barra"></p>
+         <p></p>
+      </nav>
+      <header>
+         <span class="pao1">
+          <img class="imagem" src="./img/Logo.png" alt="ícone">
+         </span>
+         <h1 class="title2">É novo por aqui? Crie a sua conta!</h1>
+      </header>
+      <main>
+        <form action="/register" method="post">
+          <div class="j4">
+             <input id="item8" placeholder="Nome de usuário" type="text" name="login" required>
+             <input id="item6" placeholder="Email" type="email" name="email">
+             <input id="item5" placeholder="Senha" type="password" name="password" required>
+             <input id="item4" placeholder="Digite a senha novamente" type="password" name="password2" required>
+             <a href="/login" class="botão3">Voltar</a>
+             <button onclick="validate()" type="submit" class="botão2">Cadastrar</button>
+             <script>
+                 function validate() {
+                 let pass1 = document.querySelector('#item5').value
+                 let pass2 = document.querySelector('#item4').value
+                 if(pass2 === pass1) return;
+                    else alert("As senhas inseridas não coincidem!");
+                 }
+            </script>
+          </div>
+        </form>
+      </main>
+    </body>
+</html>
